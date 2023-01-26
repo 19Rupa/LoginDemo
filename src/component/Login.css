@@ -1,0 +1,38 @@
+.container {
+    margin-top: 150px;
+    border: 2px solid black;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 70px;
+    background-color: rgb(170, 209, 209);
+    border-radius: 20px;
+}
+
+.heading {
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+.username {
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.password {
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.remember {
+    margin-left: 80px;
+    margin-bottom: 18px;
+}
+
+.submit {
+    margin-left: 80px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightpink;
+}
